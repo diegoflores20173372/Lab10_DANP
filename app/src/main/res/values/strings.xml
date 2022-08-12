@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lab10_DANP</string>
+    <string name="parameters_button">Parameters Task</string>
+    <string name="sequential_button">Sequential Tasks</string>
+    <string name="parallel_button">Parallel Tasks</string>
+    <string name="hint_number_2">Ingresa número 2</string>
+    <string name="hint_number_1">Ingresa número 1</string>
 </resources>
